@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  DealsApp
+
+  Created by Varun Channi on 22/06/17.
+  Copyright © 2017 Nagarro. All rights reserved.
+*/
+
+"error_all_feild_mendatory" = "Eingabe der Pflichtfelder";
+"error_invalid_email"       = "Ihre EMail Adresse ist ungültiger";
+"alert_wrong_email_id"      = "Ihre EMail Adresse ist keine registrierte EMail ID";
+"alert_password_expire"     = "Passwort ist abgelaufen. Generieren Sie ein neues Passwort durch klicken des \"Passwort vergessen\" Links.";
+"alert_session_expire"      = "Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.";
+"alert_account_locked"      = "Is 30 mins fine for account being locked for both Password & PIN?";
+"alert_password_requirement" = "Das neue Passwort sollte folgende Kriterien erfüllen: mind. 8 Zeichen, mind. 1 Großbuchstaben, mind. 1 Zahl und mind. 1 Sonderzeichen.";
+"error_password_mismatch"   = "Passwörter stimme nicht überein";
